@@ -6,7 +6,8 @@ Landing page resmi PT Laksamana Martapura Indonesia, perusahaan penyedia SDM pro
 
 ## 📸 Preview
 
-> *(Tambahkan screenshot di sini setelah deploy — bisa pakai [screely.com](https://screely.com) untuk tampilan yang rapi)*
+<img width="2019" height="1095" alt="image" src="https://github.com/user-attachments/assets/3a429b51-eae4-43ff-af45-efab7b0a95ca" />
+
 
 ---
 
